@@ -1,0 +1,31 @@
+body{
+    background: whitesmoke;
+    
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    font-weight: bolder;
+    background-image: url("https://www.shutterstock.com/image-vector/dreamy-gradient-wallpaper-mandala-pattern-260nw-512166085.jpg");
+} 
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}   
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: 18px;
+}
+.img_text1{
+    float:left;
+    margin-right: 20px;
+}
+.img_text2{
+    float:right;
+    margin-left: 20px;
+}
+.font{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: 18px;
+}
